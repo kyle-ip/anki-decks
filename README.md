@@ -1,2 +1,2 @@
 # anki-decks
-My Anki shared decks.
+My Anki shared deck packages.
